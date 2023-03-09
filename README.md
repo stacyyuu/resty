@@ -19,7 +19,7 @@
 - Refactor the Form component to implement user input from form elements, instead of hard coded string values. 
 
 ### PRs/Commits
-- [Commit 1](https://github.com/stacyyuu/resty/commit/f7cc7e09db59557c649ad52dd457b6dd7de2456c)
+- [PR](https://github.com/stacyyuu/resty/pull/2)
 - [GitHub Actions](https://github.com/stacyyuu/resty/actions/runs/4310988584/jobs/7519946634)
 
 ### UML
